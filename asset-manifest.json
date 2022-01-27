@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/RonRandomMission/static/css/main.0f3c202c.css",
-    "main.js": "/RonRandomMission/static/js/main.68ac6dc3.js",
+    "main.js": "/RonRandomMission/static/js/main.04d89363.js",
     "static/media/caesars_cars_dealershop.png": "/RonRandomMission/static/media/caesars_cars_dealershop.51e419e529873b60ddba.png",
     "static/media/hotel_room.png": "/RonRandomMission/static/media/hotel_room.74a55ad420f0f3ba69d6.png",
     "static/media/penthouse.png": "/RonRandomMission/static/media/penthouse.c7773f45cfbf858d6e88.png",
@@ -18,10 +18,10 @@
     "static/media/logo.svg": "/RonRandomMission/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/RonRandomMission/index.html",
     "main.0f3c202c.css.map": "/RonRandomMission/static/css/main.0f3c202c.css.map",
-    "main.68ac6dc3.js.map": "/RonRandomMission/static/js/main.68ac6dc3.js.map"
+    "main.04d89363.js.map": "/RonRandomMission/static/js/main.04d89363.js.map"
   },
   "entrypoints": [
     "static/css/main.0f3c202c.css",
-    "static/js/main.68ac6dc3.js"
+    "static/js/main.04d89363.js"
   ]
 }
